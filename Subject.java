@@ -1,3 +1,13 @@
+/**
+ * ------------------------------------------------------------
+ * Class Name   : Session
+ * Description  : Represents a study session during the day.
+ * Author       : Your Name
+ * Created Date : 2025-XX-XX
+ * Version      : 1.0
+ * ------------------------------------------------------------
+ */
+
 public class Subject {
     public static final int MAX_CREDITS = 5;
 
